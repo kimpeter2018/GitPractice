@@ -1,5 +1,5 @@
 class ClassName {
   ClassName() {
-    print("second edit");
+    print("new branch first edit");
   }
 }
