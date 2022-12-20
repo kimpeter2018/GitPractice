@@ -1,5 +1,5 @@
 class ClassName {
   ClassName() {
-    print("first edit");
+    print("second edit");
   }
 }
